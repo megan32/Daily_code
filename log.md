@@ -488,14 +488,14 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
  **Link(s) to work**
  1. [My Reg. Form](https://megan32.github.io/reg_form_practice/)
 
-
-
 ### Day 36	:	Tuesday	7-Feb
 **Today's To-do**: 
-- [ ] Dojo Orientation
-- [ ] Dojo HTML, CSS, JS
-- [ ] Do a build based off of learning
+- [x] Dojo Orientation
+- [x] Dojo HTML and algos part 0 and part 1 (~20 challenges + reading)
+- [x] Do a build based off of learning
 - [ ] Codewars
+**Link(s) to work**
+1. [html bio page](https://megan32.github.io/html_bio_page/)
 
 ### Day 37	:	Wednesday	8-Feb
 **Today's To-do**: 
