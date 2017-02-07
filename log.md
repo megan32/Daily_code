@@ -482,14 +482,14 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 *Totally spaced check-in 
 
 ### Day 35	:	Monday	6-Feb
-**Today's To-do**: 
+**Today's To-do**
 - [x ] Dojo advanced Git project 
 
  **Link(s) to work**
  1. [My Reg. Form](https://megan32.github.io/reg_form_practice/)
 
 ### Day 36	:	Tuesday	7-Feb
-**Today's To-do**: 
+**Today's To-do** 
 - [x] Dojo Orientation
 - [x] Dojo HTML and algos part 0 and part 1 (~20 challenges + reading)
 - [x] Do a build based off of learning
@@ -498,49 +498,49 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 1. [html bio page](https://megan32.github.io/html_bio_page/)
 
 ### Day 37	:	Wednesday	8-Feb
-**Today's To-do**: 
+**Today's To-do**
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
 ### Day 38	:	Thursday	9-Feb
-**Today's To-do**: 
+**Today's To-do** 
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
 ### Day 39	:	Friday	10-Feb
-**Today's To-do**: 
+**Today's To-do**
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
 ### Day 40	:	Saturday	11-Feb
-**Today's To-do**: 
+**Today's To-do** 
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
 ### Day 41	:	Sunday	12-Feb
-**Today's To-do**: 
+**Today's To-do** 
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
 ### Day 42	:	Monday	13-Feb
-**Today's To-do**: 
+**Today's To-do** 
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
 ### Day 43	:	Tuesday	14-Feb
-**Today's To-do**: 
+**Today's To-do** 
 - [ ] Dojo Algos
 - [ ] Dojo 
 - [ ] Codewars
