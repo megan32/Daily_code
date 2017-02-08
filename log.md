@@ -313,7 +313,6 @@ Totally forgot to make notes...But I've worked on coding every day.
 **Link(s) to work**
 
 
-
 ### Day 18	:	Friday	20-Jan
 **Today's To-do**: 
 1. (6 hours) Udemy & FCC build
