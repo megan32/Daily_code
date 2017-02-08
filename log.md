@@ -528,6 +528,7 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
+
 ### Day 41	:	Sunday	12-Feb
 **Today's To-do** 
 - [ ] Dojo Algos
