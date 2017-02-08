@@ -500,9 +500,13 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 ### Day 37	:	Wednesday	8-Feb
 **Today's To-do**
 - [ ] Dojo Algos
-- [ ] Dojo 
+- [x] Dojo 
 - [ ] Codewars
 - [ ] Do a build based off of learning
+
+**Link(s) to work**
+1. [html CSS practice page](https://megan32.github.io/Displaying_blocks_CSS_Practice/)
+
 
 ### Day 38	:	Thursday	9-Feb
 **Today's To-do** 
