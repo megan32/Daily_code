@@ -514,6 +514,9 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 - [ ] Codewars
 - [ ] Do a build based off of learning
 
+**Link(s) to work**
+1. [JavaScript Basics Page Remake](https://megan32.github.io/JavaScript_Basics_Page/)
+
 ### Day 39	:	Friday	10-Feb
 **Today's To-do**
 - [ ] Dojo Algos
