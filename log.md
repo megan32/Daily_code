@@ -482,26 +482,23 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 
 ### Day 35	:	Monday	6-Feb
 **Today's To-do**
-- [x ] Dojo advanced Git project 
+1. Dojo advanced Git project 
 
  **Link(s) to work**
  1. [My Reg. Form](https://megan32.github.io/reg_form_practice/)
 
 ### Day 36	:	Tuesday	7-Feb
 **Today's To-do** 
-- [x] Dojo Orientation
-- [x] Dojo HTML and algos part 0 and part 1 (~20 challenges + reading)
-- [x] Do a build based off of learning
-- [ ] Codewars
+1. Dojo Orientation
+2. Dojo HTML and algos part 0 and part 1 (~20 challenges + reading)
+3. Do a build based off of learning
+
 **Link(s) to work**
 1. [html bio page](https://megan32.github.io/html_bio_page/)
 
 ### Day 37	:	Wednesday	8-Feb
 **Today's To-do**
-- [ ] Dojo Algos
-- [x] Dojo 
-- [ ] Codewars
-- [ ] Do a build based off of learning
+1. Dojo 
 
 **Link(s) to work**
 1. [html CSS practice page](https://megan32.github.io/Displaying_blocks_CSS_Practice/)
@@ -509,55 +506,98 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 
 ### Day 38	:	Thursday	9-Feb
 **Today's To-do** 
-- [ ] Dojo Algos
-- [ ] Dojo 
-- [ ] Codewars
-- [ ] Do a build based off of learning
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
 
 **Link(s) to work**
 1. [JavaScript Basics Page Remake](https://megan32.github.io/JavaScript_Basics_Page/)
 
 ### Day 39	:	Friday	10-Feb
 **Today's To-do**
-- [ ] Dojo Algos
-- [ ] Dojo 
-- [ ] Codewars
-- [ ] Do a build based off of learning
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
 
 ### Day 40	:	Saturday	11-Feb
 **Today's To-do** 
-- [ ] Dojo Algos
-- [ ] Dojo 
-- [ ] Codewars
-- [ ] Do a build based off of learning
+1. Dojo Algos
+2. Dojo HTML/CSS
+3. Codewars
 
+**Link(s) to work**
 
 ### Day 41	:	Sunday	12-Feb
 **Today's To-do** 
-- [ ] Dojo Algos
-- [ ] Dojo 
-- [ ] Codewars
-- [ ] Do a build based off of learning
+1. Dojo Algos
+2. Dojo 
+3. Codewars
+
+**Link(s) to work**
+1. [Jayne Doe Portforlio Mock](https://megan32.github.io/JD_Portfolio_Practice/)
 
 ### Day 42	:	Monday	13-Feb
 **Today's To-do** 
-- [ ] Dojo Algos
-- [ ] Dojo 
-- [ ] Codewars
-- [ ] Do a build based off of learning
+1. Dojo Algos
+2. Dojo 
+3. Codewars
+
 
 ### Day 43	:	Tuesday	14-Feb
 **Today's To-do** 
-- [ ] Dojo Algos
-- [ ] Dojo 
-- [ ] Codewars
+1. Dojo Algos
+2. Dojo 
+3. Codewars
 
-Day 44	:	Wednesday	15-Feb
-Day 45	:	Thursday	16-Feb
-Day 46	:	Friday	17-Feb
-Day 47	:	Saturday	18-Feb
-Day 48	:	Sunday	19-Feb
-Day 49	:	Monday	20-Feb
+### Day 44	:	Wednesday	15-Feb
+**Today's To-do** 
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
+
+**Link(s) to work**
+
+### Day 45	:	Thursday	16-Feb
+**Today's To-do** 
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
+
+**Link(s) to work**
+
+### Day 46	:	Friday	17-Feb
+**Today's To-do** 
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
+
+**Link(s) to work**
+
+### Day 47	:	Saturday	18-Feb
+**Today's To-do** 
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
+
+**Link(s) to work**
+
+### Day 48	:	Sunday	19-Feb
+**Today's To-do** 
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
+
+**Link(s) to work**
+
+### Day 49	:	Monday	20-Feb
+**Today's To-do** 
+1. Dojo Algos
+2. Dojo HTML
+3. Codewars
+
+**Link(s) to work**
+
+
 Day 50	:	Tuesday	21-Feb
 Day 51	:	Wednesday	22-Feb
 Day 52	:	Thursday	23-Feb
