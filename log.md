@@ -559,6 +559,8 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 3. Codewars
 
 **Link(s) to work**
+1.https://megan32.github.io/Periodic_Table/
+
 
 ### Day 45	:	Thursday	16-Feb
 **Today's To-do** 
@@ -567,6 +569,7 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 3. Codewars
 
 **Link(s) to work**
+
 
 ### Day 46	:	Friday	17-Feb
 **Today's To-do** 
