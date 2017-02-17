@@ -569,13 +569,13 @@ Practiced jQuery, and I'm feeling so much better about it, plus I made a page.
 3. Codewars
 
 **Link(s) to work**
-
+[Periodic Table](https://megan32.github.io/Periodic_Table/)
 
 ### Day 46	:	Friday	17-Feb
 **Today's To-do** 
 1. Dojo Algos
-2. Dojo HTML
-3. Codewars
+2. Dojo JS
+3. Remade portfolio page in 2 hours (timed for less than 4)
 
 **Link(s) to work**
 
